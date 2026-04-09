@@ -1,0 +1,36 @@
+{
+  "app": { "title": "SOS DIGITAL — Facturation", "tagline": "Gestion de facturation professionnelle" },
+  "nav": { "dashboard": "Tableau de bord", "invoices": "Factures", "quotes": "Devis", "customers": "Clients", "catalog": "Catalogue", "reports": "Rapports", "settings": "Paramètres" },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "revenue": "Chiffre d'affaires", "thisMonth": "Ce mois", "lastMonth": "Mois précédent",
+    "invoicesIssued": "Factures émises", "paid": "Payées", "pending": "En attente", "overdue": "En retard",
+    "topCustomers": "Top 5 clients", "monthlyTrend": "Évolution mensuelle"
+  },
+  "invoice": {
+    "invoice": "Facture", "quote": "Devis", "receipt": "Reçu",
+    "number": "Numéro", "issueDate": "Date d'émission", "dueDate": "Date d'échéance",
+    "billTo": "Facturer à", "from": "De",
+    "description": "Désignation", "qty": "Qté", "unitPrice": "Prix unitaire HT", "vat": "TVA", "total": "Total TTC",
+    "subtotal": "Total HT", "vatAmount": "TVA (20%)", "totalIncTax": "Total TTC",
+    "paymentTerms": "Conditions de paiement", "notes": "Notes",
+    "signature": "Signature / Tampon",
+    "newInvoice": "Nouvelle facture", "newQuote": "Nouveau devis",
+    "preview": "Aperçu", "download": "Télécharger PDF", "send": "Envoyer",
+    "convertToInvoice": "Convertir en facture",
+    "shareWhatsApp": "Partager sur WhatsApp"
+  },
+  "status": {
+    "draft": "Brouillon", "sent": "Envoyée", "viewed": "Vue", "paid": "Payée", "overdue": "En retard", "cancelled": "Annulée"
+  },
+  "customer": {
+    "customers": "Clients", "newCustomer": "Nouveau client", "name": "Nom", "company": "Entreprise",
+    "email": "Email", "phone": "Téléphone", "address": "Adresse", "status": "Statut",
+    "active": "Actif", "inactive": "Inactif", "vip": "VIP", "history": "Historique des factures"
+  },
+  "catalog": { "catalog": "Catalogue", "newItem": "Nouvel article", "serviceName": "Nom du service", "price": "Prix unitaire" },
+  "reports": { "reports": "Rapports", "export": "Exporter", "period": "Période", "monthly": "Mensuel", "annual": "Annuel" },
+  "actions": { "save": "Enregistrer", "cancel": "Annuler", "delete": "Supprimer", "edit": "Modifier", "search": "Rechercher", "filter": "Filtrer", "add": "Ajouter", "close": "Fermer" },
+  "template": { "selectTemplate": "Choisir un template", "classic": "Classique Professionnel", "modern": "Moderne Minimaliste" },
+  "legal": { "text": "SOS DIGITAL — Tous droits réservés. TVA non applicable, art. 293 B du CGI." }
+}

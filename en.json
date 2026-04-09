@@ -1,0 +1,36 @@
+{
+  "app": { "title": "SOS DIGITAL — Invoicing", "tagline": "Professional invoicing management" },
+  "nav": { "dashboard": "Dashboard", "invoices": "Invoices", "quotes": "Quotes", "customers": "Customers", "catalog": "Catalog", "reports": "Reports", "settings": "Settings" },
+  "dashboard": {
+    "title": "Dashboard",
+    "revenue": "Revenue", "thisMonth": "This month", "lastMonth": "Last month",
+    "invoicesIssued": "Invoices issued", "paid": "Paid", "pending": "Pending", "overdue": "Overdue",
+    "topCustomers": "Top 5 customers", "monthlyTrend": "Monthly trend"
+  },
+  "invoice": {
+    "invoice": "Invoice", "quote": "Quote", "receipt": "Receipt",
+    "number": "Number", "issueDate": "Issue date", "dueDate": "Due date",
+    "billTo": "Bill to", "from": "From",
+    "description": "Description", "qty": "Qty", "unitPrice": "Unit price", "vat": "VAT", "total": "Total incl. tax",
+    "subtotal": "Subtotal", "vatAmount": "VAT (20%)", "totalIncTax": "Total incl. tax",
+    "paymentTerms": "Payment terms", "notes": "Notes",
+    "signature": "Signature / Stamp",
+    "newInvoice": "New invoice", "newQuote": "New quote",
+    "preview": "Preview", "download": "Download PDF", "send": "Send",
+    "convertToInvoice": "Convert to invoice",
+    "shareWhatsApp": "Share on WhatsApp"
+  },
+  "status": {
+    "draft": "Draft", "sent": "Sent", "viewed": "Viewed", "paid": "Paid", "overdue": "Overdue", "cancelled": "Cancelled"
+  },
+  "customer": {
+    "customers": "Customers", "newCustomer": "New customer", "name": "Name", "company": "Company",
+    "email": "Email", "phone": "Phone", "address": "Address", "status": "Status",
+    "active": "Active", "inactive": "Inactive", "vip": "VIP", "history": "Invoice history"
+  },
+  "catalog": { "catalog": "Catalog", "newItem": "New item", "serviceName": "Service name", "price": "Unit price" },
+  "reports": { "reports": "Reports", "export": "Export", "period": "Period", "monthly": "Monthly", "annual": "Annual" },
+  "actions": { "save": "Save", "cancel": "Cancel", "delete": "Delete", "edit": "Edit", "search": "Search", "filter": "Filter", "add": "Add", "close": "Close" },
+  "template": { "selectTemplate": "Select template", "classic": "Classic Professional", "modern": "Modern Minimalist" },
+  "legal": { "text": "SOS DIGITAL — All rights reserved. Professional services." }
+}
